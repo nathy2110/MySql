@@ -1,0 +1,1 @@
+SELECT * FROM db_ex1.tb_func;
